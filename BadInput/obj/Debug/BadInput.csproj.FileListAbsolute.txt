@@ -1,0 +1,10 @@
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\bin\Debug\BadInput.exe.config
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\bin\Debug\BadInput.exe
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\bin\Debug\BadInput.pdb
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\obj\Debug\BadInput.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\obj\Debug\BadInput.Form1.resources
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\obj\Debug\BadInput.Properties.Resources.resources
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\obj\Debug\BadInput.csproj.GenerateResource.cache
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\obj\Debug\BadInput.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\obj\Debug\BadInput.exe
+C:\Users\Andrew Stamps\source\repos\BadInput\BadInput\obj\Debug\BadInput.pdb
